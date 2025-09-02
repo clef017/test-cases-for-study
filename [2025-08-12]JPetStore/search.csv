@@ -1,0 +1,4 @@
+keyword,response
+Bulldog,//div[@id='Catalog']
+,//div[@id='Content']
+Angelfish,//div[@id='Catalog']

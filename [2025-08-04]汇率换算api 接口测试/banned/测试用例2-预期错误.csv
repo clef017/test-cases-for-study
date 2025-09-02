@@ -1,0 +1,8 @@
+from,to,amount
+cny,CNY,3999
+,USD,3999
+CNY,,3999
+CNY,USD,
+CNNY,USD,25.78
+258,USD,25.78
+CNY,USD,abc

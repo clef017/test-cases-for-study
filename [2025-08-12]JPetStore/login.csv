@@ -1,0 +1,6 @@
+username,password,response
+abc,asb,302
+abc,ass,200
+abb,asb,200
+,asb,200
+abc,,200
